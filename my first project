@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login</title>
+   <label for="email">Email</label> required
+    <input type="text" id="email" placeholder="Enter Email" name="email" required><br>
+
+    <label for="psw">Password</label>
+    <input type="password" id="psw" placeholder="Enter Password" name="psw" required><br>
+
+    <label for="gender">Gender</label>
+    <input type="radio" id="male" name="gender" value="male">
+
+    <label for="male">Male</label>
+    <input type="radio" id="female" name="gender" value="female">
+
+    <label for="female">Female</label>
+    <input type="radio" id="other" name="gender" value="other">
+
+    <label for="other">Other</label><br>
+      
+    <input type="checkbox" id="remember" name="remember">
+    <label for="remember"> Remember me</label><br>
+
+  
+
+</head>
+<body>
+    
+</body>
+</html>
